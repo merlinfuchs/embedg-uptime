@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/message.style.ico",
     "slug": "embed-generator-website",
     "status": "up",
-    "uptime": "82.96%",
-    "uptimeDay": "82.96%",
-    "uptimeWeek": "82.96%",
-    "uptimeMonth": "82.96%",
-    "uptimeYear": "82.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 517,
     "timeDay": 517,
     "timeWeek": 517,
     "timeMonth": 517,
     "timeYear": 517,
-    "dailyMinutesDown": {
-      "2024-09-19": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Embed Generator App",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/message.style.ico",
     "slug": "embed-generator-app",
     "status": "up",
-    "uptime": "82.44%",
-    "uptimeDay": "82.44%",
-    "uptimeWeek": "82.44%",
-    "uptimeMonth": "82.44%",
-    "uptimeYear": "82.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 209,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2024-09-19": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Embed Generator API",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/message.style.ico",
     "slug": "embed-generator-api",
     "status": "up",
-    "uptime": "82.93%",
-    "uptimeDay": "82.93%",
-    "uptimeWeek": "82.93%",
-    "uptimeMonth": "82.93%",
-    "uptimeYear": "82.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 140,
     "timeDay": 140,
     "timeWeek": 140,
     "timeMonth": 140,
     "timeYear": 140,
-    "dailyMinutesDown": {
-      "2024-09-19": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
