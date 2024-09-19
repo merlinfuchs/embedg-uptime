@@ -7,9 +7,7 @@ sites:
   - name: Embed Generator App
     url: https://message.style/app
   - name: Embed Generator API
-    url: https://message.style/api/users/@me
-    expectedStatusCodes:
-      - 401
+    url: https://message.style/api/health
 
 status-website:
   cname: status.message.style
