@@ -5,6 +5,8 @@ repo: embedg-uptime # The name of this repository
 sites:
   - name: Embed Generator Website
     url: https://message.style/
+  - name: Embed Generator App
+    url: https://message.style/app
   - name: Embed Generator API
     url: https://message.style/api/users/@me
     expectedStatusCodes:
