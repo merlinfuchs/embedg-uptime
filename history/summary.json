@@ -4,19 +4,19 @@
     "url": "https://message.style/",
     "icon": "https://icons.duckduckgo.com/ip3/message.style.ico",
     "slug": "embed-generator-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 433,
-    "timeWeek": 596,
-    "timeMonth": 597,
-    "timeYear": 597,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 593,
+    "timeDay": 468,
+    "timeWeek": 589,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2024-09-27": 0
+      "2024-09-27": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://message.style/app",
     "icon": "https://icons.duckduckgo.com/ip3/message.style.ico",
     "slug": "embed-generator-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 261,
-    "timeDay": 166,
-    "timeWeek": 275,
+    "timeDay": 197,
+    "timeWeek": 273,
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2024-09-27": 0
+      "2024-09-27": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://message.style/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/message.style.ico",
     "slug": "embed-generator-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 82,
-    "timeWeek": 136,
-    "timeMonth": 140,
-    "timeYear": 140,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 138,
+    "timeDay": 93,
+    "timeWeek": 134,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {
-      "2024-09-27": 0
+      "2024-09-27": 8
     }
   }
 ]
