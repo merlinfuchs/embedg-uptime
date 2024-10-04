@@ -40,17 +40,19 @@
     "url": "https://message.style/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/message.style.ico",
     "slug": "embed-generator-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 111,
-    "timeWeek": 128,
-    "timeMonth": 139,
-    "timeYear": 139,
-    "dailyMinutesDown": {}
+    "time": 138,
+    "timeDay": 112,
+    "timeWeek": 127,
+    "timeMonth": 138,
+    "timeYear": 138,
+    "dailyMinutesDown": {
+      "2024-10-04": 0
+    }
   }
 ]
