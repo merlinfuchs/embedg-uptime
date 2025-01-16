@@ -1,7 +1,7 @@
 url: https://message.style/api/health
-status: down
-code: 503
-responseTime: 123
-lastUpdated: 2025-01-16T19:58:56.707Z
+status: up
+code: 200
+responseTime: 1738
+lastUpdated: 2025-01-16T20:08:53.795Z
 startTime: 2024-09-19T14:41:09.268Z
 generator: Upptime <https://github.com/upptime/upptime>
